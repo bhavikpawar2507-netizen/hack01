@@ -1,0 +1,21 @@
+{
+  "name": "hacknova",
+  "version": "1.0.0",
+  "description": "**AeroClean 360** is a comprehensive, tech-driven solution designed to combat urban dust pollution. Developed for the \"Dust-Free Streets\" hackathon challenge, this project integrates IoT sensing, AI-driven analytics, and smart urban design to create cleaner, healthier cities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2",
+    "socket.io": "^4.8.3"
+  }
+}
